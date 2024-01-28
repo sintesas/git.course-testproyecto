@@ -1,0 +1,36 @@
+{
+    "name": "Ryan",
+    "lastname": "Ray",
+    "age": "25",
+    "nickname": "Ryan123",
+    "hobbies": [
+        "run",
+        "code",
+        "eat",
+        "listen"
+    ],
+    "address": {
+        "Barrio": "Ciudadela Novaterra",
+        "Conjunto": "Zapan",
+        "Apartamento": 834
+    },
+    "married": false,
+    "friends": [
+        {
+            "name": "Ryan",
+            "lastname": "Ray"
+        },
+        {
+            "name": "Sebas",
+            "lastname": "Pinilla"
+        },
+        {
+            "name": "Joe",
+            "lastname": "FLorez"
+        },
+        {
+            "name": "Wil",
+            "lastname": "Rios"
+        }
+    ]
+}

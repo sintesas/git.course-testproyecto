@@ -37,7 +37,7 @@ for (let i = 0; i < friends.length; i++) {output += `<li>${friends[i].name} - ${
 document.getElementById('people').innnerHTML=output
 console.log (JSON.stringify(user))
 
-// console.log(JSON.stringify(friends))
+console.log(JSON.stringify(friends))
 
 
 
